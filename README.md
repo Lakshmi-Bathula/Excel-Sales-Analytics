@@ -2,7 +2,7 @@
 
 
 - **Project objective:**
-- 
+  
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
 - **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
@@ -13,7 +13,7 @@
 ## Finance Report :
 
 - **Project objective:**
-- 
+
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
 - **Importance of analyzing Finance data:** Aid in benchmarking against industry peers and previous periods Foundation for budgeting and forecasting.
