@@ -40,9 +40,6 @@ This project helps businesses:
 * Presenting business insights through Excel reports.
   
 ### 📬 Contact
-
-## 📬 Contact
-
-**Email:** [your-email@example.com](mailto:your-email@example.com)
-**LinkedIn:** [My LinkedIn Profile](YOUR_LINKEDIN_URL)
-
+**Email:** <a href="mailto:lakshmithirupathamma783@gmail.com">lakshmithirupathamma783@gmail.com</a>
+<br>
+**LinkedIn:** <a href="YOUR_LINKEDIN_URL">My LinkedIn Profile</a>
